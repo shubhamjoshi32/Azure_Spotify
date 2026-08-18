@@ -1,0 +1,15 @@
+{
+	"name": "shubham-df-azureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f9caef4-b6c3-4b29-8f84-507c8c91e987",
+		"tenantId": "8a5f9e66-ae6a-4726-b0bb-5fbfe319197f"
+	}
+}
